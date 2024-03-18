@@ -1,4 +1,7 @@
 Hola, soy Jonathan Ramirez 👋
+Me gustan los gatos kawais.
+he/him
+Actualmente soy estudiante
 
 <!--
 **JonathanRSS1/JonathanRSS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
